@@ -10,4 +10,4 @@
 | versionCode     | 2      
 | versionName | v1.0.2
 | apkUrl| https://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/app/release/xingmi.apk
-|updateContent|推送更新
+|updateContent|1、优化播放器显示效果；\n 2、增加推送更新app；
