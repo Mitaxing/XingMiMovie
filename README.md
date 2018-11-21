@@ -9,4 +9,5 @@
 | command   | update      
 | versionCode     | 2      
 | versionName | v1.0.2
-| apkUrl| https://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/app/release/xingmi.apk
+| apkUrl| https://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/app/release/xingmi.ap
+|updateContent|推送更新
