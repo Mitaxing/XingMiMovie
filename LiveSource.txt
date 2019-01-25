@@ -38,7 +38,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8;陕西卫视;https:
 http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8;贵州卫视;https://www.tvmao.com/program_satellite/GUIZOUTV1-w6.html
 流畅|http://111.40.205.87/PLTV/88888888/224/3221225649/index.m3u8,高清|http://111.40.205.87/PLTV/88888888/224/3221225627/index.m3u8;湖北卫视;https://www.tvmao.com/program_satellite/HUBEI1-w6.html
 http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8;青海卫视;https://www.tvmao.com/program_satellite/QHTV1-w6.html
-流畅|http://ivi.bupt.edu.cn/hls/sdtv.m3u8,高清|http://111.40.205.87/PLTV/88888888/224/3221225704/index.m3u8;山东卫视HD;https://www.tvmao.com/program_satellite/SDTV1-w6.html
+流畅|http://ivi.bupt.edu.cn/hls/sdtv.m3u8,高清|http://111.40.205.87/PLTV/88888888/224/3221225704/index.m3u8;山东卫视;https://www.tvmao.com/program_satellite/SDTV1-w6.html
 流畅|http://ivi.bupt.edu.cn/hls/ahtv.m3u8,高清|http://111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8;安徽卫视;https://www.tvmao.com/program_satellite/AHTV1-w6.html
 流畅|http://ivi.bupt.edu.cn/hls/nxtv.m3u8,高清|http://111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8;宁夏卫视;https://www.tvmao.com/program_satellite/NXTV2-w6.html
 流畅|http://ivi.bupt.edu.cn/hls/gstv.m3u8,高清|http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8;甘肃卫视;https://www.tvmao.com/program_satellite/GSTV1-w6.html
