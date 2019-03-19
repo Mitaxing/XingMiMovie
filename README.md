@@ -1,6 +1,10 @@
 ### 当前版本
 星米影视v1.1.2
 
+### 原理
+
+https://www.jianshu.com/p/478a6d0d0dd5
+
 
 ### 升级apk
 
