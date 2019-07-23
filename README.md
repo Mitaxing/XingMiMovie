@@ -12,10 +12,10 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | key|value
 |:--------:|:---------:
 | command   | update      
-| versionCode     |MitaerCode5MitaerCode
-| versionName | MitaerVersionv1.2.2MitaerVersion
+| versionCode     |MitaerCode77MitaerCode
+| versionName | MitaerVersionv2.0.0MitaerVersion
 | apkUrl| MitaerUrlhttps://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apkMitaerUrl
-|updateContent|MitaerDesc* 新增视频下载功能；\n * 修复已知的bug；\nMitaerDesc
+|updateContent|MitaerDesc* 新增视频缓存功能；\n * 修复已知的bug；\nMitaerDesc
 
 
 ### 更新直播源
