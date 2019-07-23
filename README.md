@@ -12,7 +12,7 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | key|value
 |:--------:|:---------:
 | command   | update      
-| versionCode     |Mitaer5Mitaer
+| versionCode     |MitaerCode5MitaerCode
 | versionName | v1.2.2
 | apkUrl| https://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apk
 |updateContent|* 新增视频下载功能；\n * 修复已知的bug；\n 
