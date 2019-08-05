@@ -1,5 +1,5 @@
 ### 当前版本
-星米影视v2.1.1
+星米影视v2.2.0
 
 ### 原理
 
@@ -12,10 +12,10 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | key|value
 |:--------:|:---------:
 | command   | update      
-| versionCode     |MitaerCode80MitaerCode
-| versionName | MitaerVersionv2.1.1MitaerVersion
+| versionCode     |MitaerCode81MitaerCode
+| versionName | MitaerVersionv2.2.0MitaerVersion
 | apkUrl| MitaerUrlhttps://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apkMitaerUrl
-|updateContent|MitaerDesc* 修复连播黑屏问题以及一些小优化；\n * 修复已知的bug；\n因为吉吉影音基本不能使用，请尽量使用云播TV或者腾讯优酷爱奇艺观看。如果还不能观看，请将影片名反馈给我MitaerDesc
+|updateContent|MitaerDesc* 修复云播和吉吉影音；\n * 修复已知的bug；MitaerDesc
 
 
 ### 更新直播源
