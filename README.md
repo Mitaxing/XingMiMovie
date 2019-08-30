@@ -35,4 +35,4 @@ https://www.jianshu.com/p/478a6d0d0dd5
 ### 活动页链接
 | key|value
 |:--------:|:---------:
-|url|MitaerActivityUrlwulihub.com.cn/go/Qaxa9W/index.htmlMitaerActivityUrl
+|url|MitaerActivityUrlwulihub.com.cn/go/Wd3VAq/index.htmlMitaerActivityUrl
