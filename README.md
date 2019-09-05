@@ -1,5 +1,5 @@
 ### 当前版本
-星米影视v2.2.1
+星米影视v2.2.2
 
 ### 原理
 
@@ -12,10 +12,10 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | key|value
 |:--------:|:---------:
 | command   | update      
-| versionCode     |MitaerCode82MitaerCode
-| versionName | MitaerVersionv2.2.1MitaerVersion
+| versionCode     |MitaerCode83MitaerCode
+| versionName | MitaerVersionv2.2.2MitaerVersion
 | apkUrl| MitaerUrlhttps://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apkMitaerUrl
-|updateContent|MitaerDesc* 修复已知bug；\n * 下载速度翻倍；\n *增加积分，每5分钟点击广告可以获得积分，用于后续送票活动和星米影视TV版兑换，积分数可以在“我的 → 我的积分”查看。MitaerDesc
+|updateContent|MitaerDesc* 新增去广告功能，快去“我的积分”页面兑换吧；\n * 新增影院模块，接入豆瓣电影，最新电影全知道；\n *修复已知bug。MitaerDesc
 
 
 ### 更新直播源
