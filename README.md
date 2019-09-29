@@ -1,5 +1,5 @@
 ### 当前版本
-星米影视v2.2.3
+星米影视v2.2.4
 
 ### 原理
 
@@ -12,10 +12,10 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | key|value
 |:--------:|:---------:
 | command   | update      
-| versionCode     |MitaerCode84MitaerCode
-| versionName | MitaerVersionv2.2.3MitaerVersion
+| versionCode     |MitaerCode85MitaerCode
+| versionName | MitaerVersionv2.2.4MitaerVersion
 | apkUrl| MitaerUrlhttps://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apkMitaerUrl
-|updateContent|MitaerDesc* 修复云播影院；\n *修复已知bug。MitaerDesc
+|updateContent|MitaerDesc* 修复已知bug。MitaerDesc
 
 
 ### 更新直播源
