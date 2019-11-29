@@ -14,7 +14,8 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | command   | update      
 | versionCode     |MitaerCode86MitaerCode
 | versionName | MitaerVersionv2.2.5MitaerVersion
-| apkUrl| MitaerUrlhttps://sz-download.weiyun.com/ftn_handler/99971083fae853e1c26edecd881ec2499c8abf27fc3048398e22b893296b5e8585265f46de796144075a7f3bb65957db5dc4dd8397590a747069a948b6863955/%E6%98%9F%E7%B1%B3%E5%BD%B1%E8%A7%86v2.2.5.apk?fname=%E6%98%9F%E7%B1%B3%E5%BD%B1%E8%A7%86v2.2.5.apk&from=30113&version=3.3.3.3MitaerUrl
+| fileMd5 | MitaerMd58401128924776d17d5849453433c6b95MitaerMd5
+| apkUrl| MitaerUrlhttps://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apkMitaerUrl
 |updateContent|MitaerDesc* 云播TV和91美剧启用新的解析方式，起播更快；\n * 修复影院页面。MitaerDesc
 
 
