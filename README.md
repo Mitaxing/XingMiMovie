@@ -1,5 +1,5 @@
 ### 当前版本
-星米影视v2.2.5
+星米影视v2.5.1
 
 ### 原理
 
@@ -12,10 +12,10 @@ https://www.jianshu.com/p/478a6d0d0dd5
 | key|value
 |:--------:|:---------:
 | command   | update      
-| versionCode     |MitaerCode86MitaerCode
-| versionName | MitaerVersionv2.2.5MitaerVersion
-| fileMd5 | MitaerMd58401128924776d17d5849453433c6b95MitaerMd5
-| apkUrl| MitaerUrlhttps://raw.githubusercontent.com/Mitaxing/XingMiMovie/master/xingmi.apkMitaerUrl
+| versionCode     |MitaerCode92MitaerCode
+| versionName | MitaerVersionv2.5.1MitaerVersion
+| fileMd5 | MitaerMd59a3a5952e35a1423a0b013f8245d1aaeMitaerMd5
+| apkUrl| MitaerUrlhttps://star-movie.oss-cn-hangzhou.aliyuncs.com/StarMovie.apkMitaerUrl
 |updateContent|MitaerDesc* 云播TV和91美剧启用新的解析方式，起播更快；\n * 修复影院页面。MitaerDesc
 
 
